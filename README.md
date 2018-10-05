@@ -1,2 +1,7 @@
 # Multi-Threading-API-Java
-A small project to demonstrate multi-threading API calls for improved performance 
+This project is a simple demonstration on multi-threading API calls and using `ExecutorService` to ensure they are all
+finished.
+
+The `ExecutorService` code can be found in the main class [here](src/main/java/Main.java)
+
+The API called just returns the time.
